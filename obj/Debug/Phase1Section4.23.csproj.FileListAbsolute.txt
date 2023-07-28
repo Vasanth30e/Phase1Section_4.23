@@ -1,0 +1,8 @@
+D:\Training\C#\Day 15\Phase1Section4.23\Phase1Section4.23\bin\Debug\Phase1Section4.23.exe.config
+D:\Training\C#\Day 15\Phase1Section4.23\Phase1Section4.23\bin\Debug\Phase1Section4.23.exe
+D:\Training\C#\Day 15\Phase1Section4.23\Phase1Section4.23\bin\Debug\Phase1Section4.23.pdb
+D:\Training\C#\Day 15\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.csproj.AssemblyReference.cache
+D:\Training\C#\Day 15\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.csproj.SuggestedBindingRedirects.cache
+D:\Training\C#\Day 15\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 15\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.exe
+D:\Training\C#\Day 15\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.pdb
